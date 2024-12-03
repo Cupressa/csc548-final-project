@@ -1,0 +1,2 @@
+This repository contains a web application that allows users to make song and folder requests to executives. It will also serve as the foundation for a more overarching online resource for the Creighton Pep Band
+The application can be used by activating the virtual environment, final.env, and running the python script homepage.py with streamlit.

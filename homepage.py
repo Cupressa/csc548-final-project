@@ -12,8 +12,8 @@ def main():
     st.title("CU Pep Band Database - Homepage")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("resources\pep_home_1.jpg")
         st.image("resources\pep_home_2.jpg")
+        st.image("resources\pep_home_1.jpg")
     with col2:
         st.image("resources\pep_home_3.jpg")
         st.image("resources\pep_home_4.jpg")
